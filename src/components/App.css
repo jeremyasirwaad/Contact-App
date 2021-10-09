@@ -1,0 +1,18 @@
+.main-container
+{
+  width: 50%;
+}
+
+.addcontactcon
+{
+  margin-top: 50px;
+}
+
+.item
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 70px;
+}
